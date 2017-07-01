@@ -15,6 +15,7 @@ La extensión .conf del sitio sólo se utiliza para versiones de apache2 superio
 3. Abrir el archivo con nano o el editor ded su preferencia y copiar el texto 
 
 nano /etc/apache2/sites-available/consejocomunal.conf
+
 <VirtualHost *:80>
         ServerAdmin webmaster@localhost
         ServerName consejocomunal
